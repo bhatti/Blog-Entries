@@ -4,96 +4,80 @@ Popular blogs entries from <a href="http://weblog.plexobject.com/">my blog</a> (
 <li> <a href="http://weblog.plexobject.com/?p=1682">Implementing a Single Sign-on solution for Wordpress (PHP) and Rails applications using Central Authentication Service (CAS)</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1681">NoSql databases bring "Stored Procedures" back in fashion</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1679">Tutorial days from OSCON 2010</a></li>
-
   <li> <a href="http://weblog.plexobject.com/?p=1678">A few lessons from Seth Godin's book Linchpin: Are You Indispensable?</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1676">Building a stock quote server in Erlang using Ejabberd, XMPP, Bosh, Exmpp, Strophe and Yaws</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1674">Favorite fifteen tips from "Rework" book by Jason Fried and DHH</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1672">A few recipes for reprocessing messages in Dead-Letter-Queue using ActiveMQ</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1670">PlexRBAC: an open source project for providing powerful role based security (I)</a></li>
-
   <li> <a href="http://weblog.plexobject.com/?p=1671">PlexRBAC: an open source project for providing powerful role based security (II)</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1669">Building Security Systems</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1668">Dynamic Inheritance and Composition using Object Extension Pattern</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1667">Applying Adaptive Object Model using dynamic languages and schema-less databases</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1666">Quering and Indexing CouchDB documents</a></li>
-
   <li> <a href="http://weblog.plexobject.com/?p=1663">Introduction to CouchDB</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1660">Cut the scope and make your life easy</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1655">Day 1 at #oscon 2009</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1656">Day 2 at #oscon 2009</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1657">Day 3 at #oscon 2009</a></li>
-
   <li> <a href="http://weblog.plexobject.com/?p=1658">Day 4 at #oscon 2009</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1659">Day 5 at #oscon 2009</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1653">OCActiveObjects: ActiveObject based O/R Mapping framework for iPhone development</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1648">Does software quality matters?</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1647">Software Estimation</a></li>
-
   <li> <a href="http://weblog.plexobject.com/?p=1645">Review of Clean Code</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1644">Tips from Implementation Patterns</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1643">Tips from Effective Java</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1638">Implementing Actor-based message passing using Object-oriented methods</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1636">My gripes about REST services</a></li>
-
   <li> <a href="http://weblog.plexobject.com/?p=1635">Developing REST based services using JSR 311</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1634">Concurrency Constructs</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1631">Traits of good programmers</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1627">Implementing HTTP Proxy Service with XSL Transformation</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1624">Love and Hate with Java</a></li>
-
   <li> <a href="http://weblog.plexobject.com/?p=1622">Designing Microblogging system for Scalability</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1621">Challenges of multicore programming</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1616">Integrating with lots of Services and AJAX</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1600">Does experience matter?</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1594">Accessing SimpleDB using Java and Erlang</a></li>
-
   <li> <a href="http://weblog.plexobject.com/?p=1592">Starting cluster of Erlang nodes on EC2</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1577">Rosetta solution in Erlang</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1576">Performance testing C++, Java, Ruby and Erlang</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1573">Code Smells</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1572">Polymorphism in Erlang</a></li>
-
   <li> <a href="http://weblog.plexobject.com/?p=1570">Benchmarking Java vs Erlang</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1569">Ten Commandments for Scalable Architecture</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1568">Annotation based Caching in Java</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1566">Load and Functional Testing with Selenium and Grinder</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1562">Ten Commandments for Configuration</a></li>
-
   <li> <a href="http://weblog.plexobject.com/?p=1561">Ten Commandments for Writing a Service</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1556">Resource Bundle in Ruby</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1555">Working with Amazon Web Services</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1427">Agile Methodologies Under the Hood</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1393">Development in large IT Shops</a></li>
-
   <li> <a href="http://weblog.plexobject.com/?p=1418">Enums and Lookups in Ruby and Java</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1368">Integrating Ruby with Java using ActiveMQ and Stomp</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1403">RailsConf 2006 Day 3</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1402">RailsConf 2006 Day 2</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1401">RailsConf 2006 Day 1</a></li>
-
   <li> <a href="http://weblog.plexobject.com/?p=1390">Integrating ActiveMQ with JBoss</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1382">Agile Purists</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1389">Implementing Const in Java</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1407">Brainstorm Chicago April 19-20</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1420">Message-Driven-Pojos with ActiveMQ</a></li>
-
   <li> <a href="http://weblog.plexobject.com/?p=1435">Sudoku Solver in Ruby</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1417">Nexus for next generation languages</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1405">Scripting Flame War</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1428">Log locally and query globally</a>
-
   <li> <a href="http://weblog.plexobject.com/?p=1409">Responsibility vs Accountability</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1376">Web 2.0</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1391">Bohrbug Vs Heisenbug</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1386">Keeping the truck number low</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1424">How overwork leads to dumb workers</a></li>
-
   <li> <a href="http://weblog.plexobject.com/?p=1383">Best Practices 2004 (East)</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1414">What is right methodology?</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1419">Offshoring</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1369">Design by Committee</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1392">Software Development Profession is Doomed?</a></li>
-
   <li> <a href="http://weblog.plexobject.com/?p=1412">What's in the Title</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1430">Software Rewrites</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1399">OO Summary</a></li>

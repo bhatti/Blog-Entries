@@ -1,5 +1,4 @@
-Popular blogs entries from <a href="http://weblog.plexobject.com/">my blog</a> (<a href="http://weblog.plexobject.com/human_sitemap.html">sitemap</a>):
-<p>
+<big>Popular blogs entries</big> from <a href="http://weblog.plexobject.com/">my blog</a> (<a href="http://weblog.plexobject.com/human_sitemap.html">sitemap</a>):
 <ul>
 <li> <a href="http://weblog.plexobject.com/?p=1682">Implementing a Single Sign-on solution for Wordpress (PHP) and Rails applications using Central Authentication Service (CAS)</a></li>
   <li> <a href="http://weblog.plexobject.com/?p=1681">NoSql databases bring "Stored Procedures" back in fashion</a></li>
